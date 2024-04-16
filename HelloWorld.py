@@ -1,4 +1,4 @@
 print ("ET0735	- DevOps for AIOT")
-New Tester
+print ("DCPE year-2 CES path only")
 
 
