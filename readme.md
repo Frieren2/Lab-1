@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# ET0735 – Lab 1 (Intro)
-=======
+
 # ET0735 – Lab 1 (Introduction)
->>>>>>> bug-fix1
 ## H2
 ### H3
 #### H4
